@@ -1,1 +1,0 @@
-# segundo-corte-inteligencia-artificial
