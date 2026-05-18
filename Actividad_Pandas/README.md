@@ -1,71 +1,87 @@
 # Investigación sobre la librería Pandas
 
-## Descripción
+## Descripción de la actividad
 
-Este repositorio contiene una investigación y varios ejercicios prácticos realizados sobre la librería Pandas en Python.
+En esta actividad realicé una investigación sobre la librería Pandas de Python y además desarrollé algunos ejercicios prácticos utilizando Google Colab.
 
-La actividad fue desarrollada en Google Colab con el fin de comprender el manejo y análisis de datos utilizando estructuras como Series y DataFrames.
+Durante el trabajo investigué conceptos básicos relacionados con la librería y desarrollé varios ejemplos para entender mejor cómo funciona Pandas y cómo puede utilizarse para trabajar con datos.
+
+Los ejercicios realizados estuvieron relacionados con estudiantes, productos tecnológicos, archivos CSV y generación de datos aleatorios.
 
 ---
 
 ## Objetivo
 
-Investigar y conocer las funciones principales de Pandas y aplicar sus herramientas mediante ejercicios prácticos en Python.
+Conocer un poco más sobre la librería Pandas y entender su funcionamiento mediante ejercicios prácticos que me permitieran trabajar y organizar información utilizando Python.
 
 ---
 
 ## Temas investigados
 
-Durante la actividad se investigaron los siguientes temas:
+Durante la actividad investigué los siguientes temas:
 
 - ¿Qué es Pandas?
 - ¿Para qué sirve?
 - Objetivo principal de la librería
 - Series y DataFrames
+- Funciones principales
 - Lectura de archivos CSV
 - Operaciones entre columnas
 - Datos sintéticos
-- Importancia de Pandas en Inteligencia Artificial
+- Importancia de Pandas en Inteligencia Artificial y análisis de datos
 
 ---
 
-## Ejercicios realizados
+## Explicación de ejercicios realizados
 
-En el Notebook se desarrollaron diferentes ejercicios prácticos utilizando Pandas:
+### Ejercicio 1: Creación de un DataFrame
 
-1. Creación de DataFrames
-2. Operaciones matemáticas entre columnas
-3. Lectura y visualización de archivos CSV.
-4. Generación de datos sintéticos
+Creé una tabla con información de estudiantes donde agregué datos como nombre, edad, carrera y promedio.
 
----
+Con este ejercicio entendí mejor cómo Pandas organiza información mediante filas y columnas.
 
-## Herramientas utilizadas
+### Ejercicio 2: Operaciones entre columnas
 
-- Python
-- Pandas
-- Google Colab
-- GitHub
+Trabajé con información de algunos productos tecnológicos como laptops, monitores, teclados y audífonos.
 
----
+Después realicé operaciones para calcular ventas, IVA y el valor final de cada producto.
 
-## Notebook en Google Colab
+### Ejercicio 3: Lectura y análisis de un archivo CSV
 
-Agregar aquí el enlace del notebook de Google Colab.
+Creé un archivo CSV con información relacionada con ventas tecnológicas y luego lo cargué nuevamente utilizando Pandas.
+
+Después de leer el archivo agregué una nueva columna para calcular el ingreso total generado por cada producto.
+
+### Ejercicio 4: Trabajo con datos sintéticos
+
+Generé datos aleatorios de estudiantes utilizando nombres, edades, carreras y promedios.
+
+Luego organicé toda la información utilizando DataFrames.
 
 ---
 
 ## Resultados obtenidos
 
-Con los ejercicios realizados se logró comprender mejor el funcionamiento básico de Pandas y la forma en que organiza la información mediante DataFrames.
+Durante el desarrollo de la actividad pude observar cómo Pandas permite organizar información mediante DataFrames.
 
-También se realizaron operaciones entre columnas, lectura de archivos CSV y creación de datos sintéticos para practicar el manejo de datos en Python.
+A través de los ejercicios realizados logré crear tablas con información de estudiantes, realizar operaciones entre columnas, trabajar con archivos CSV y generar datos aleatorios para pruebas.
+
+Los resultados completos y las salidas generadas se encuentran dentro del Notebook desarrollado en Google Colab.
+
+---
+
+## Notebook en Google Colab
+
+Para visualizar el desarrollo completo de la actividad:
+
+🔗 [Abrir Notebook en Google Colab](https://colab.research.google.com/drive/1B-_vVAqmj-GbbeMLp0HIXlI6deJlm_Xz?usp=sharing)
 
 ---
 
 ## Conclusiones
 
-- Pandas facilita el trabajo con datos estructurados.
-- Los DataFrames permiten organizar información de manera clara y ordenada.
-- La librería cuenta con funciones útiles para trabajar archivos y realizar operaciones con datos.
-- Pandas tiene una gran importancia en áreas como Ciencia de Datos e Inteligencia Artificial.
+- Con esta actividad entendí mejor cómo Pandas ayuda a organizar información de una manera más sencilla.
+- Los DataFrames me permitieron observar una forma más ordenada de trabajar datos.
+- Las operaciones entre columnas me ayudaron a entender cómo automatizar cálculos utilizando pocas líneas de código.
+- La lectura de archivos CSV me permitió ver cómo trabajar información externa directamente desde Python.
+- Los ejercicios realizados me ayudaron a comprender mejor algunas aplicaciones básicas de Pandas.
