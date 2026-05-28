@@ -216,6 +216,3 @@ Enlace al Notebook desarrollado en Google Colab:
 [Abrir Notebook en Google](https://colab.research.google.com/drive/1U0K0L3HbeAatfE5TSIFolbKKjWibRYwl?usp=sharing)
 
 ---
-
-
-[Agregar enlace aquí]
