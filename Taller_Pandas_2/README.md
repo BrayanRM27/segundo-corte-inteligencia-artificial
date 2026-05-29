@@ -2,7 +2,9 @@
 
 ## Inteligencia Artificial
 
-**Estudiantes:** Brayan David Riascos Murillo, Juan Alejandro Roldán Rodríguez**
+**Estudiantes:** Brayan David Riascos Murillo
+Juan Alejandro Roldán Rodríguez
+
 **Materia:** Inteligencia Artificial  
 **Universidad:** Universidad del pacifico  
 **Docente:** Wilman Quiñones 
