@@ -219,3 +219,6 @@ Las máquinas defectuosas presentan mayores niveles de temperatura, vibración, 
 # Reflexión sobre Inteligencia Artificial
 
 La Inteligencia Artificial permite analizar grandes volúmenes de datos generados por sensores industriales para identificar patrones asociados a fallas futuras. Mediante algoritmos de Machine Learning como Random Forest, XGBoost o Redes Neuronales, es posible automatizar la detección temprana de anomalías y optimizar los procesos de mantenimiento, reduciendo costos operativos y mejorando la productividad de la organización.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pmdibNR8l7TQYw3CHaRbsEddakgF0wXJ?usp=sharing)
